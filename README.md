@@ -19,7 +19,15 @@ A standalone Windows desktop app that extracts conversations from your **ChatGPT
 
 ## Quick Start
 
-### Option A — Run from Source
+### Option A — Download the Pre-built App (Recommended)
+
+You don't need Python installed for this. Just download the app and run it!
+
+1. Go to the [Releases page](https://github.com/vkmr007/ChatGPT-Backup-Extractor-Tool/releases/latest)
+2. Download **`ChatGPT_Extractor.exe`**
+3. Double-click it to run!
+
+### Option B — Run from Source
 
 1. Install Python 3.10+ from [python.org](https://www.python.org/downloads/)
 2. Install dependencies:
@@ -31,7 +39,7 @@ A standalone Windows desktop app that extracts conversations from your **ChatGPT
    python chatgpt_extractor.py
    ```
 
-### Option B — Build the EXE
+### Option C — Build the EXE Yourself
 
 1. Double-click **`build_exe.bat`**
 2. Wait ~1 minute while PyInstaller packages everything
