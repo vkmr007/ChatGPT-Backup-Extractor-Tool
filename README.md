@@ -2,7 +2,7 @@
 
 A standalone Windows desktop app that extracts conversations from your **ChatGPT data export** — with a full chat browser, preview panel, and one-click story extraction to `.docx`.
 
-![Dark Theme GUI with 3 tabs: Setup, Browse Chats, Extract](screenshot.png)
+🔮 **Dark Theme GUI** • 🔎 **Browse & Preview Chats** • 📖 **Smart Story Detection**
 
 ---
 
