@@ -1,0 +1,33 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# PyInstaller output
+build/
+dist/
+*.spec
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# ChatGPT backup data (never commit personal data!)
+chat gpt backup/
+*.zip
+extracted/
+*_extracted/
+
+# Output folders (personal data)
+important chats/
+stories/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
